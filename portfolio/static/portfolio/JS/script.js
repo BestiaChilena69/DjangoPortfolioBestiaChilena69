@@ -30,7 +30,6 @@ window.onscroll = function(){
     }
 }
 
-
 // Menú de navegación lateral
 
 let body = document.querySelector("body");
